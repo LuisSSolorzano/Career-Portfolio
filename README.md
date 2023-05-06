@@ -1,4 +1,4 @@
-![IMG-20221102-WA0001](https://user-images.githubusercontent.com/112820565/236599389-d6acf39f-dc98-445d-9b09-1a7c3434e44a.jpg)
+![IMG-20221102-WA0001](https://user-images.githubusercontent.com/112820565/236599456-8c1633ad-5ff2-4811-9c4d-118d6081beb9.jpg)
 
 Hello to all employers, my name is Luis Solorzano. I am currently interning at UL Solutions under the Global Analytics team as well as work with their
 Automation team. The focus of my work there is to create cash forecasts using Python algorithms as well as automating various processes to save time 
