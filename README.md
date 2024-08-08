@@ -14,6 +14,6 @@ These are the languages I am most comfortable in, however, I am also profficient
 For a more detailed view of my work experience here is a link to my resume.
 Within the resume I have my contact information if you have further questions, feel free to contact me.
 
-[Luis Solorzano Resume 6.5.2024.docx](https://github.com/LuisSSolorzano/Career-Portfolio/files/11620280/CS.Resume.post.internship.docx)
+[Luis Solorzano Resume 6.5.2024.docx](https://raw.githubusercontent.com/LuisSSolorzano/Career-Portfolio/main/Luis%20Solorzano%20Resume%206.5.2024.docx)
 
 
