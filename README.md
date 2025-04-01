@@ -1,7 +1,7 @@
 ![IMG-20221102-WA0001](https://user-images.githubusercontent.com/112820565/236599456-8c1633ad-5ff2-4811-9c4d-118d6081beb9.jpg)
 
-Hello to all employers, my name is Luis Solorzano. I am currently interning at UL Solutions under the Global Analytics team as well as work with their
-Automation team. The focus of my work there is to create cash forecasts using Python algorithms as well as automating various processes to save time 
+Hello to all employers, my name is Luis Solorzano. My most recent internship was at UL Solutions under the Global Analytics team as well as work with their
+Automation team. The focus of my work there was to create cash forecasts using Python algorithms as well as automating various processes to save time 
 and money. In my 5 months of being an intern I have helped with major projects such as web scraping flights to check for that the whole company uses, as well 
 as helping to convert all of the code written in C# to Python. 
 
@@ -14,6 +14,6 @@ These are the languages I am most comfortable in, however, I am also profficient
 For a more detailed view of my work experience here is a link to my resume.
 Within the resume I have my contact information if you have further questions, feel free to contact me.
 
-[Luis Solorzano Resume 6.5.2024.docx](https://raw.githubusercontent.com/LuisSSolorzano/Career-Portfolio/main/Luis%20Solorzano%20Resume%206.5.2024.docx)
+[Luis Solorzano Resume 3.3.2025.docx](https://raw.githubusercontent.com/LuisSSolorzano/Career-Portfolio/main/Luis%20Solorzano%20Resume%203.3.2024.docx)
 
 
